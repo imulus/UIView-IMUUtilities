@@ -5,7 +5,7 @@
 # To learn more about the attributes see http://docs.cocoapods.org/specification.html
 #
 Pod::Spec.new do |s|
-  s.name         = "UIView-IMUtilities"
+  s.name         = "UIView-IMUUtilities"
   s.version      = "0.0.1"
   s.summary      = "UIView convenience categories."
   s.homepage     = "https://github.com/imulus/UIView-IMUtilities"
