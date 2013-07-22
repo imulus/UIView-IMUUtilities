@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface UIView (FrameConvenience)
+@interface UIView (IMUFrameConvenience)
 
 @property (assign, nonatomic) CGSize frameSize;
 @property (assign, nonatomic) CGFloat frameHeight;
