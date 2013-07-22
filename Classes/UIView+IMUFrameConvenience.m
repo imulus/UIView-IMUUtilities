@@ -8,9 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import "UIView+FrameConvenience.h"
+#import "UIView+IMUFrameConvenience.h"
 
-@implementation UIView (FrameConvenience)
+@implementation UIView (IMUFrameConvenience)
 
 - (CGPoint)frameOrigin
 {

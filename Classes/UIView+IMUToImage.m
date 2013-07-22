@@ -6,10 +6,10 @@
 //  Copyright (c) 2013 Imulus, LLC. All rights reserved.
 //
 
-#import "UIView+ToImage.h"
+#import "UIView+IMUToImage.h"
 #import <QuartzCore/QuartzCore.h>
 
-@implementation UIView (ToImage)
+@implementation UIView (IMUToImage)
 
 - (UIImage *)image
 {
